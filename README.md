@@ -183,12 +183,4 @@ debug_suite/
 
 ---
 
-## 👨‍💻 Author
-
-**Apurva Ambre**
-Bachelor of Engineering (Computer Engineering)
-Artificial Intelligence & Machine Learning Enthusiast
-
----
-
 ⭐ **If you like this project, consider giving it a star!**
