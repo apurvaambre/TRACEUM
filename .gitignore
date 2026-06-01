@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.bin
+
+# HuggingFace / tokenizer artifacts
+*.model
+*.vocab
+*.json
+
+# Training runs / experiments
+runs/
+debug_output/
+attention_export/
+
+# Large weight folders
+pretrain_weights/
+pretrain_weights_v2/
+pretrain_weights_multi_fixed/
+finetune_weights/
+weights_v5/
+weights_v6/
+
+# OS files
+.DS_Store
+Thumbs.db
